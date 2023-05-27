@@ -1,8 +1,11 @@
 # Online-Food-Ordering-Web-App
 Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App on your local machine. It has a food ordering module for a customer. It also provides menu, orders and user management module for admin.
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 50aadf1404c47583a9d6e92e6dee01df155a771a
 # Screenshots
 <img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
@@ -30,4 +33,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Upload the food.sql file and import it</li>
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 50aadf1404c47583a9d6e92e6dee01df155a771a
